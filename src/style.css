@@ -114,3 +114,30 @@ button:focus-visible {
   background-color: #312e2e;
 }
 
+.contenedor-login{
+  display: flex;
+  flex-direction: column;
+}
+
+.contenedor-input{
+  margin: 10px;
+  padding: 10px;
+  height: 10px;
+  color: #ffffff;
+}
+
+.contenedo-ejercicio3{
+  display: flex;
+  flex-direction: column;
+}
+
+.contenedor-label-input{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.button-login{
+  margin: 10px;
+}
+
